@@ -6,7 +6,7 @@ for Pakistani farmers based on their soil and weather conditions.
 Built by Muhammad Arsalan | CS Student, Peshawar 🇵🇰
 
 ## Live Demo
-[Link will be added after deployment]
+https://kissan.streamlit.app
 
 ## What it does
 - Takes soil nutrients (N, P, K), pH, temperature, humidity, rainfall as input
